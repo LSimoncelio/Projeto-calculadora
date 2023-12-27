@@ -25,7 +25,7 @@ def calculadora():
         print("4. Divisão")
         print("0. Sair")
 
-        escolha = input ("Digite a opção (0, 1, 2, 3, 4: ")
+        escolha = input ("Digite a opção (0, 1, 2, 3, 4): ")
 
         if escolha == '0':
             print("Calculadora encerrada.")
